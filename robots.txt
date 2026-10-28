@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /chatexhibit/thanks.html
+Sitemap: https://martincrescenzo-dotcom.github.io/chatexhibit/sitemap.xml
+Sitemap: https://martincrescenzo-dotcom.github.io/sitemap.xml
